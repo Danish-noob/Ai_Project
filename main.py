@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
-from rapidfuzz import process
-
+from rapidfuzz import process  # replaced fuzzywuzzy with rapidfuzz
 import google.generativeai as genai
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
