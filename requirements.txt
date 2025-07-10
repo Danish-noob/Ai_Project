@@ -1,0 +1,6 @@
+streamlit==1.46.0
+pandas==2.3.0
+scikit-learn==1.5.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.24.0
+google-generativeai==0.5.4
